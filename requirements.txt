@@ -1,0 +1,9 @@
+chromedriver-py==79.0.3945.36
+et-xmlfile==1.0.1
+jdcal==1.4.1
+openpyxl==3.0.3
+selenium==3.141.0
+urllib3==1.25.7
+xlrd==1.2.0
+xlutils==2.0.0
+xlwt==1.3.0
