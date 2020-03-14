@@ -8,7 +8,7 @@ from xlrd import open_workbook
 from xlutils.copy import copy
 
 
-excel_file_path = "E:/b73vs4000 DEG.xlsx"
+excel_file_path = "b73vs4000 DEG.xlsx"
 sheet_name = "Sheet1"
 read_col_num = 0
 write_col_num = 1
