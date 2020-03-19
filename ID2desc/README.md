@@ -3,7 +3,7 @@
 
 # 使用
     pip install -r requirements.txt
-    python3.7 IDtoName.py
+    python3.7 ID2desc.py
 
 # TODO
 1. 每次login到Index页面 -> 浏览器tab使用后退，前进方式
